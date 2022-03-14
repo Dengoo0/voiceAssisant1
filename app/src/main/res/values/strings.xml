@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">voiceAssisant1</string>
+
+    <string name="app_id">ce1812b0</string>
+    <!-- 语音听写 -->
+    <string name="text_begin">请开始说话…</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="text_show_iat_result">听写结果显示</string>
+    <!-- 语音合成 -->
+<!--    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>-->
+
+
+    <!-- 欢迎语 -->
+    <string-array name="welcome_tips">
+        <item>随时为您服务</item>
+        <item>时刻准备着</item>
+        <item>欢迎回来</item>
+        <item>很高兴为您服务</item>
+    </string-array>
+</resources>
